@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traffic</string>
+
+    <string name="title">Traffic Sign</string>
+    <string name="test">Test</string>
+    <string name="about_me">About Me</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_detail">
+        <item>Detail 1</item>
+        <item>Detail 2</item>
+        <item>Detail 3</item>
+        <item>Detail 4</item>
+    </string-array>
+</resources>
